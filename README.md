@@ -140,6 +140,21 @@ Secure API endpoints
 
 Input validation
 
+
+📸 Screenshots
+
+### Login Page
+![Login Page](images/login.png)
+
+### Student Dashboard
+![Student Dashboard](images/dashboard.png)
+
+### Application Form
+![Application Form](images/application-form.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/admin-dashboard.png)
+
 📈 Future Improvements
 
 Payment integration for scholarship distribution
@@ -176,5 +191,6 @@ Manisha Gupta
 
 Computer Science Engineering Student
 Interested in Machine Learning, AI, and Full Stack Development
+
 
 
