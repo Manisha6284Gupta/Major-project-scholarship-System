@@ -6,9 +6,13 @@
 
 A full-stack web application designed to streamline the process of managing scholarships for students, teachers, and administrators. The system allows students to apply for scholarships, administrators to manage applications, and institutions to track scholarship distribution efficiently.
 
+---
+
 📌 Overview
 
 The Scholarship Management System helps educational institutions digitize the scholarship process. It reduces manual paperwork and provides a transparent system for application submission, verification, and approval.
+
+---
 
 This project is built to demonstrate full-stack development skills including authentication, database management, and role-based access control.
 
@@ -43,6 +47,8 @@ Approve or reject applications
 
 Track scholarship distribution
 
+---
+
 🛠 Tech Stack
 
 Frontend
@@ -69,6 +75,8 @@ Authentication
 
 Role-based authentication system
 
+---
+
 📂 Project Structure
 scholarship-management-system
 │
@@ -85,6 +93,9 @@ scholarship-management-system
 │
 ├── README.md
 └── package.json
+
+---
+
 ⚙️ Installation
 1️⃣ Clone the repository 
 git clone (https://github.com/Manisha6284Gupta/Major-project-scholarship-System)2️⃣ Navigate to the project
@@ -109,6 +120,9 @@ npm run dev
 Frontend
 
 npm start
+
+---
+
 📊 System Workflow
 
 Student registers and logs in.
@@ -120,6 +134,8 @@ Teacher verifies student documents.
 Admin reviews and approves the application.
 
 Student receives scholarship approval notification.
+
+---
 
 📸 Screenshots
 
@@ -154,6 +170,8 @@ Input validation
 ### Admin Dashboard
 ![Admin Dashboard](images/admin-dashboard.png)
 
+---
+
 📈 Future Improvements
 
 Payment integration for scholarship distribution
@@ -163,6 +181,8 @@ Email notification system
 AI-based eligibility recommendation
 
 Mobile application version
+
+---
 
 🤝 Contributing
 
@@ -180,9 +200,13 @@ git commit -m "Add new feature"
 
 Push and create a Pull Request.
 
+---
+
 📄 License
 
 This project is licensed under the MIT License.
+
+---
 
 👩‍💻 Author
 
@@ -190,6 +214,7 @@ Manisha Gupta
 
 Computer Science Engineering Student
 Interested in Machine Learning, AI, and Full Stack Development
+
 
 
 
