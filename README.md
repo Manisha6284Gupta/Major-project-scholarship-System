@@ -86,9 +86,8 @@ scholarship-management-system
 ├── README.md
 └── package.json
 ⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/your-username/scholarship-management-system.git
-2️⃣ Navigate to the project
+1️⃣ Clone the repository 
+git clone (https://github.com/Manisha6284Gupta/Major-project-scholarship-System)2️⃣ Navigate to the project
 cd scholarship-management-system
 3️⃣ Install dependencies
 
@@ -191,6 +190,7 @@ Manisha Gupta
 
 Computer Science Engineering Student
 Interested in Machine Learning, AI, and Full Stack Development
+
 
 
 
