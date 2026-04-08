@@ -3,6 +3,7 @@
 
 
 🎓 Scholarship Management System
+<img width="1352" height="645" alt="gneProject" src="https://github.com/user-attachments/assets/78900437-f3f8-426c-9f6a-c8442097f046" />
 
 A full-stack web application designed to streamline the process of managing scholarships for students, teachers, and administrators. The system allows students to apply for scholarships, administrators to manage applications, and institutions to track scholarship distribution efficiently.
 
